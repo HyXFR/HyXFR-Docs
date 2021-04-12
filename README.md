@@ -6,7 +6,7 @@ Hey ! Bienvenue dans cette documentation ! Je vous conseille de lire cette page 
 
 ## Comment utiliser cette documentation ?
 
-Pour utiliser cette documentation correctement, il est nécéssaire de comprendre quelque chose : ce n'est pas une documentation "classique", sur un seul objet, cette documentation ne regroupe pas que un thème particulier. Je vous conseille de lire groupe par groupe, en prenant un groupe comme une "documentation" sans introduction. Si vous êtes ici car je vous y ai redirigé, je vous ai surement donné un lien d'une autre page, sinon, je vous ai donné le nom d'une page, auquel il faudra que vous le lisiez, pour comprendre ce que je vous ai inscrit, si vous avez des problèmes.
+Pour utiliser cette documentation correctement, il est nécéssaire de comprendre quelque chose : ce n'est pas une documentation "classique", sur un seul objet, cette documentation ne regroupe pas que un thème particulier. Je vous conseille de vous focaliser sur l'essentiel de ce que vous êtes venu voir. Si vous êtes ici car je vous y ai redirigé, je vous ai surement donné un lien d'une autre page, sinon, je vous ai donné le nom d'une page, auquel il faudra que vous le lisiez, pour comprendre ce que je vous ai inscrit, si vous avez des problèmes.
 
 ## Pourquoi j'ai créé cette documentation ?
 
