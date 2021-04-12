@@ -5,4 +5,6 @@
 ## l'Anti-Raid sur Discord
 
 * [Qu'est-ce que le Raid ?](lanti-raid-sur-discord/whatis-le-raid.md)
+* [Comment se prémunir des spams ?](lanti-raid-sur-discord/comment-premunir-spam.md)
+* [Comment avoir un serveur Discord le plus sécurisé possible ?](lanti-raid-sur-discord/comment-avoir-serveur-discord-securise.md)
 
