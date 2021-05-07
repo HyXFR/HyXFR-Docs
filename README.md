@@ -23,6 +23,6 @@ Sur cette documentation, je vais y aborder principalement tout ce qui concerne l
 ## Me contacter
 
 {% hint style="info" %}
-Pour me contacter, vous pouvez le faire principalement par message privé sur Discord : HyXFR\#1231, je suis présent sur le serveur discord de support de [ce bot](https://protect-bot.fr/), auquel j'ai mes messages privés d'ouverts.
+Pour me contacter, vous pouvez le faire principalement par message privé sur Discord : HyXFR\#1231, je suis présent sur le serveur discord de support de [ce bot](https://protect-bot.fr/), et de [mon serveur privé](https://discord.gg/R8T4vWnM2V) auquel j'ai mes messages privés d'ouvert.
 {% endhint %}
 
