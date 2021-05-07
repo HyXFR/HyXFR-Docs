@@ -11,3 +11,8 @@
 
 * [Pourquoi un utilisateur ne peux pas être contacté ?](bases-discord/why-user-cannot-contacted.md)
 
+## Avancé de Discord
+
+* [L'id](avance-de-discord/menu-id/README.md)
+  * [Qu'est-ce qu'un ID ?](avance-de-discord/menu-id/what-is-id.md)
+
