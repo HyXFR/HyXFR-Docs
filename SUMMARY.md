@@ -19,4 +19,6 @@
 * [L'id](avance-de-discord/menu-id/README.md)
   * [Qu'est-ce qu'un ID ?](avance-de-discord/menu-id/what-is-id.md)
   * [Avoir l'id d'un salon Discord](avance-de-discord/menu-id/get-channel-id.md)
+  * [Avoir l'id d'un serveur Discord](avance-de-discord/menu-id/get-guild-id.md)
+  * [Avoir l'id d'un utilisateur Discord](avance-de-discord/menu-id/get-user-id.md)
 
