@@ -18,4 +18,5 @@
   * [Les différences entre un bot et une application](avance-de-discord/menu-discord-api/differences-between-bot-and-app.md)
 * [L'id](avance-de-discord/menu-id/README.md)
   * [Qu'est-ce qu'un ID ?](avance-de-discord/menu-id/what-is-id.md)
+  * [Avoir l'id d'un salon Discord](avance-de-discord/menu-id/get-channel-id.md)
 
