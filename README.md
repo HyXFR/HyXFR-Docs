@@ -20,3 +20,5 @@ J'ai créé cette documentation pour une raion très simple : Je voulais pouvoir
 Pour me contacter, vous pouvez le faire principalement par message privé sur Discord : HyXFR\#1231, je suis présent sur le serveur discord de support de [ce bot](https://protect-bot.fr/), et de [mon serveur privé](https://discord.gg/R8T4vWnM2V) auquel j'ai mes messages privés d'ouvert.
 {% endhint %}
 
+_Petite information au passage : j'ai fait cette documentation avec le thème "clair" de Discord, mais, cela ne doit pas vous déranger normalement, pour toute question, merci de me contacter !_
+
