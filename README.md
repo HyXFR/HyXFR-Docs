@@ -14,12 +14,6 @@ Pour utiliser cette documentation correctement, il est nécéssaire de comprendr
 J'ai créé cette documentation pour une raion très simple : Je voulais pouvoir documenter toutes les actions que je faisait, par exemple, certaines personnes ne savent pas ce qu'est un "raid" sur Discord, je le documente ici.
 {% endhint %}
 
-## Quels sont les thèmes que je vais y aborder ?
-
-{% hint style="info" %}
-Sur cette documentation, je vais y aborder principalement tout ce qui concerne l'Anti-Raid Discord, et la reconnaissance des utilisateurs Discord, mais je peux y aborder plein d'aurtes choses, que je fais par exemple
-{% endhint %}
-
 ## Me contacter
 
 {% hint style="info" %}
