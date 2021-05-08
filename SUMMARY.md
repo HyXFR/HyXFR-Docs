@@ -13,6 +13,8 @@
 
 ## Avancé de Discord
 
+* [L'API de Discord](avance-de-discord/menu-discord-api/README.md)
+  * [À quoi sert et comment activer le mode développeur ?](avance-de-discord/menu-discord-api/what-is-and-how-enable-developer-mode.md)
 * [L'id](avance-de-discord/menu-id/README.md)
   * [Qu'est-ce qu'un ID ?](avance-de-discord/menu-id/what-is-id.md)
 
