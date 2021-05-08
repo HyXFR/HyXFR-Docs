@@ -8,7 +8,7 @@ description: >-
 
 ## À quoi sert le mode "développeur" sur Discord ? <a id="what-is"></a>
 
-Le mode développeur sur Discord permet principalement **d'avoir accès aux IDs** des salons, serveurs, utilisateurs, etc... Il est donc très pratique pour les développeurs de bot privés par exemple, pour pouvoir accéder à un salon facilement et non pas à avoir de trouver manuellement le salon avec d'autres critères, le nom par exemple.
+Le mode développeur sur Discord permet principalement **d'avoir accès aux** [**IDs**](https://my.hyxfr-docs.ga/avance-de-discord/menu-id/what-is-id) ****des salons, serveurs, utilisateurs, etc... Il est donc très pratique pour les développeurs de bot privés par exemple, pour pouvoir accéder à un salon facilement et non pas à avoir de trouver manuellement le salon avec d'autres critères, le nom par exemple.
 
 ## Comment activer le mode "développeur" sur Discord ? <a id="how-enable"></a>
 

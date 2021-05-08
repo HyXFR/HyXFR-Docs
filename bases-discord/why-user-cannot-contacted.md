@@ -55,6 +55,6 @@ Quand vous avez été bloqué par la personne que vous tenter de contacter, Disc
 Mais, il se peut que ça ne s'affiche pas, et que Discord vous envoie un message, dans ce cas, essayez de rafraîchir Discord \(Controle + R si vous êtes sous Windows/Linux ou Windows + R si vous êtes sous Mac\), ou rafraîchissez directement votre page si vous êtes dans un navigateur.
 
 {% hint style="success" %}
-Et voila ! Vous savez maintenant pourquoi un utilisateur ne peux pas vous contacter, si vous pensez qu'il manque quelque chose, n'hésitez pas à me contacter sur Discord.
+Et voila ! Vous savez maintenant pourquoi un utilisateur ne peux pas vous contacter, si vous pensez qu'il manque quelque chose, n'hésitez pas à [me contacte](https://my.hyxfr-docs.ga/)r sur Discord.
 {% endhint %}
 
