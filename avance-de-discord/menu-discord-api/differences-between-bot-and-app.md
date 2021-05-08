@@ -6,15 +6,15 @@ description: >-
 
 # Les différences entre un bot et une application
 
-## Une application
+## Une application <a id="a-app"></a>
 
 Avant toute chose, soyons d'accord sur quelques points, pour que vous arrivez à me suivre même si vous ne connaissez pas ces deux mots en lisant cette page. Une application sert à accéder à[ l'API de Discord](https://discord.com/developers/docs/intro), et **uniquement cela**, une application ne peux pas à elle seule créer un bot sur Discord, mais elle est nécessaire à avoir si on veut pouvoir créer un bot Discord.
 
-## Un Bot Discord
+## Un Bot Discord <a id="a-bot"></a>
 
 Un bot Discord est exactement comme un utilisateur sur Discord, mais, il a le droit d'être contrôlé via un programme externe au site web officiel de Discord ou de l'application officielle de Discord.
 
-## Quel est donc la différence ?
+## Quel est donc la différence ? <a id="difference"></a>
 
 Pour conclure, la différence entre une application et un bot Discord est qu'une application **permet d'accéder à l'API de Discord**, contrairement à un bot Discord, qui ne fait juste être un **utilisateur simple**, avec pour différence qu'il ne peux pas rejoindre un serveur sans y être invité par une personne possédant la permission "Gérer le serveur".
 

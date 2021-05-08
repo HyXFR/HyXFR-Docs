@@ -6,13 +6,13 @@ description: >-
 
 # Pourquoi un utilisateur ne peux pas être contacté ?
 
-## Comment reconnaître un message qui n'a pas été envoyé ?
+## Comment reconnaître un message qui n'a pas été envoyé ? <a id="recognize-not-sended"></a>
 
 Quand un message que vous tenter d'envoyer ne s'envoie pas, pour raison ou pour une autre, vous recevrez un message dans ce style :
 
 ![](../.gitbook/assets/doc1.png)
 
-## Les raisons possibles
+## Les raisons possibles <a id="reasons"></a>
 
 Plusieurs raisons sont possibles pour que ça arrive :
 
@@ -22,19 +22,19 @@ Plusieurs raisons sont possibles pour que ça arrive :
 * La personne que vous tenter de contacter n'autorise que les messages privés de ses amis
 * Vous avez été bloqué par la personne que vous tenter de contacter
 
-### Vous n'êtes pas sur le même serveur avec la personne que vous voulez contacter
+### Vous n'êtes pas sur le même serveur avec la personne que vous voulez contacter <a id="not-in-server"></a>
 
 Pour cette raison, il n'y a pas grand chose à expliquer, excepté que vous pouvez faire clique droit sur l'utilisateur &gt; Serveurs en Communs pour voir si vous êtes sur un de ses serveurs ou non.
 
 ![](../.gitbook/assets/doc2.png)
 
-### Vous avez désactiver les messages privés sur ce serveur
+### Vous avez désactiver les messages privés sur ce serveur <a id="i-disable-pm"></a>
 
 Sur un serveur, vous avez la possibilité d'enlever la possibilité d'être contacté en message privé, pour savoir ou modifier cela, effectuez un clique droit sur le serveur en question et cliquez sur "Privacy Settings" ou "Paramètre de confidentialité". Vous pouvez ensuite modifier cela à votre guise !
 
 ![](../.gitbook/assets/doc3.png)
 
-### Vous n'avez pas rempli les règles du serveur en question
+### Vous n'avez pas rempli les règles du serveur en question <a id="rules-not-allowed"></a>
 
 Sur un serveur communautaire, il y a de fortes chances que la "Communauté" soit activée sur ce serveur en question, et qu'il y ai certaines règles à appliquer, pour savoir si il y en a sur un serveur, allez dans un salon, à l'endroit ou vous pouvez normalement envoyer des messages, il peut avoir marqué ceci :
 
@@ -42,11 +42,11 @@ Sur un serveur communautaire, il y a de fortes chances que la "Communauté" soit
 
 Si il n'y a pas marqué ceci, ce n'est pas la raison de pourquoi vous ne pouvez pas le contacter. Si non, il suffit de cliquer sur le bouton "Terminer" et de suivre les indications.
 
-### La personne que vous tenter de contacter n'autorise que les messages privés de ses amis
+### La personne que vous tenter de contacter n'autorise que les messages privés de ses amis <a id="he-dont-accept"></a>
 
 Dans ce cas, vous ne pouvez rien faire de votre coté, à part peut-être demander à la personne d'autoriser l'envoi de messages privés depuis le serveur, comme montré précédemment.
 
-### Vous avez été bloqué par la personne que vous tenter de contacter
+### Vous avez été bloqué par la personne que vous tenter de contacter <a id="blocked"></a>
 
 Quand vous avez été bloqué par la personne que vous tenter de contacter, Discord est censé vous afficher ceci dans le champ pour envoyer votre message
 
