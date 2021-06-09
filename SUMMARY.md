@@ -22,3 +22,9 @@
   * [Avoir l'id d'un serveur Discord](avance-de-discord/menu-id/get-guild-id.md)
   * [Avoir l'id d'un utilisateur Discord](avance-de-discord/menu-id/get-user-id.md)
 
+## Conditions Usages
+
+* [HyXFR AR Tool](conditions-usages/uc-hat/README.md)
+  * [Terms Of Usage](conditions-usages/uc-hat/terms/README.md)
+    * [French Version](conditions-usages/uc-hat/terms/french-version.md)
+
